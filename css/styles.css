@@ -2,3 +2,8 @@ main {
 	margin: 0 auto;
 	width: 1200px;
 }
+#slider {
+	width: 320px;
+	height: 180px;
+	background-color: #333333;
+}
