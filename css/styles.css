@@ -6,4 +6,5 @@ main {
 	width: 320px;
 	height: 180px;
 	background-color: #333333;
+	margin: 0 auto;
 }
